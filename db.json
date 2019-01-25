@@ -1,15 +1,14 @@
 {
-"chart_series": 
-[
-{
-"name": "Marks", 
-"color":"#000", 
-"data": [34,67,30,89,50,60,70] 
-},
-{
-"name": "Number", 
-"color":"#ccc",
-"data": [70,60,50,40,30,20,10] 
-}
-]
+  "series": [
+    {
+      "name": "Marks",
+      "data": [10,20,30,40,50,60,70],
+      "color":"red"
+    },
+    {
+      "name": "Number",
+      "data": [70,60,50,40,30,20,10],
+      "color":"blue"
+    },
+  ]
 }
